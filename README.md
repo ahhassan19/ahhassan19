@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
   we
 - 😄 Pronouns: hassoooo
+- 💞️ I’m a Data Engineer..
 
 
 <!---
