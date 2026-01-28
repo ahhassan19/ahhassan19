@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning computer science education 
 - 💞️ I’m looking to collaborate on ...
   we
-- 😄 Pronouns: hassoooo
-- 💞️ I’m a Data Engineer..
+- 😄 Pronouns: hassan
+- 💞️ I’m a Software Engineer..
 
 
 <!---
